@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [EDFIMS](https://github.com/PoulasthaMukherjee/EDFIMS-TezpurUniversity-2022)
 
-- 💬 Ask me about **C, MySQL, PHP**
+- 💬 Ask me about **C, MySQL, PHP...**
 
 - 📫 How to reach me **poulasthamax@gmail.com**
 
