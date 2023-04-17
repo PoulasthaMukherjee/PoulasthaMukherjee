@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **poulasthamax@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://_poulastha_yeah_.hackerresume.io/e1ddea79-8ba6-4b6a-b85c-d66cbfdbcdc9)
+- 📄 Find my Resume [here](https://_poulastha_yeah_.hackerresume.io/e1ddea79-8ba6-4b6a-b85c-d66cbfdbcdc9).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
