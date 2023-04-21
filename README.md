@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C, MySQL, PHP ...**
 
-- 📫 How to reach me **poulasthamax@gmail.com**
+- 📫 How to reach me **poulasthamax01@gmail.com**
 
 - 📄 Find my Resume [here](https://_poulastha_yeah_.hackerresume.io/e1ddea79-8ba6-4b6a-b85c-d66cbfdbcdc9)
 
