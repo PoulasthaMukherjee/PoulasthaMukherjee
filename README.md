@@ -37,3 +37,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poulasthamukherjee&" alt="poulasthamukherjee" /></p>
 
+[![PoulasthaMukherjee's GitHub | Stats](https://stats.quine.sh/PoulasthaMukherjee/github?theme=dark)](https://quine.sh)
+
+[![PoulasthaMukherjee's GitHub | Languages](https://stats.quine.sh/PoulasthaMukherjee/languages-over-time?theme=dark)](https://quine.sh)
+
+[![PoulasthaMukherjee's GitHub | Topics](https://stats.quine.sh/PoulasthaMukherjee/topics-over-time?theme=dark)](https://quine.sh)
