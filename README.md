@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [github-bot](https://github.com/PoulasthaMukherjee/github-bot)
+- 🔭 I’m currently working on [GSSoC'23](https://gssoc.girlscript.tech/)
 
 - 🌱 I’m currently learning **APIs, JS Frameworks and Django**
 
