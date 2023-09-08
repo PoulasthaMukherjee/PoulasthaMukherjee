@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poulastha</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulasthamukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="poulasthamukherjee" /> </p>
 
@@ -7,17 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [GSSoC'23](https://gssoc.girlscript.tech/)
+- 🌱 I’m currently learning **AI, NLP, ANN...**
 
-- 🌱 I’m currently learning **APIs, JS Frameworks and Django**
+- 💬 Ask me about **AI, ML, Deep Learning...**
 
-- 🤝 I’m looking for help with [EDFIMS](https://github.com/PoulasthaMukherjee/EDFIMS-TezpurUniversity-2022)
-
-- 💬 Ask me about **C, MySQL, PHP ...**
-
-- 📫 How to reach me **poulasthamax01@gmail.com**
-
-- 📄 Find my Resume [here](https://_poulastha_yeah_.hackerresume.io/e1ddea79-8ba6-4b6a-b85c-d66cbfdbcdc9)
+- 📫 How to reach me **Poulastha.Mukherjee@studentambassadors.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
