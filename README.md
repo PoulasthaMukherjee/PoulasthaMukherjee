@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poulastha</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulasthamukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="poulasthamukherjee" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AI, NLP, ANN...**
+- 🌱 I’m currently learning **FastAPI**
 
-- 💬 Ask me about **AI, ML, Deep Learning...**
+- 💬 Ask me about **Django, Flask, DSA**
 
-- 📫 How to reach me **Poulastha.Mukherjee@studentambassadors.com**
+- 📫 How to reach me **poulasthamukherjee01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
