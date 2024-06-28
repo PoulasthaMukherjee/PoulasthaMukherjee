@@ -33,9 +33,5 @@
 
 [![PoulasthaMukherjee's GitHub | Stats](https://stats.quine.sh/PoulasthaMukherjee/github?theme=dark)](https://quine.sh)
 
-[![PoulasthaMukherjee's GitHub | Languages](https://stats.quine.sh/PoulasthaMukherjee/languages-over-time?theme=dark)](https://quine.sh)
-
-[![PoulasthaMukherjee's GitHub | Topics](https://stats.quine.sh/PoulasthaMukherjee/topics-over-time?theme=dark)](https://quine.sh)
-
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
