@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poulasthamukherjee" alt="poulasthamukherjee" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - I'm working at Netra Labs as a **Full Stack Dev Intern**
 
 - 🌱 I’m currently learning **FastAPI**
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/poulastha-mukherjee-5a8554229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/poulastha-mukherjee-5a8554229" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/poulastha-mukherjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poulastha-mukherjee/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_poulastha_yeah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_poulastha_yeah_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/poulasthamukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poulasthamukherjee" height="30" width="40" /></a>
 </p>
