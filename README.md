@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **poulasthamukherjee01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yqmEdZjTKXHs8VH58tlGcctMdF5NBx9A/view?usp=sharing](https://drive.google.com/file/d/1yqmEdZjTKXHs8VH58tlGcctMdF5NBx9A/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1yqmEdZjTKXHs8VH58tlGcctMdF5NBx9A/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
