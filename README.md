@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Poulastha</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poulasthamukherjee&label=Views&color=black&style=plastic" alt="poulasthamukherjee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poulasthamukherjee&label=Views&color=lavender&style=plastic" alt="poulasthamukherjee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poulasthamukherjee" alt="poulasthamukherjee" /></a> </p>
 
