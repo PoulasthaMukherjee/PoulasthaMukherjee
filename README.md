@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poulasthamukherjee" alt="poulasthamukherjee" /></a> </p>
 
-- I'm working at Netra Labs as a **Full Stack Dev Intern**
+- I'm working at [Netra Labs](https://www.netralabs.ai/) as a **Full Stack Dev Intern**
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
