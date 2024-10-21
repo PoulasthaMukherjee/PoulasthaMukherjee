@@ -7,7 +7,7 @@
 
 - I'm working at Netra Labs as a **Full Stack Dev Intern**
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **TypeScript, Next.js**
 
 - 💬 Ask me about **JavaScript, React, Express, Node, Python, etc.**
 
