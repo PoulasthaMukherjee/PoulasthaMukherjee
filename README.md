@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Poulastha</h1>
 <h3 align="center">Software Developer</h3
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poulasthamukherjee&label=Views&color=blue&style=plastic" alt="poulasthamukherjee" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=poulasthamukherjee&label=Views&color=blue&style=plastic" alt="poulasthamukherjee" /> </p>
 
 - 💻 I'm working at [Netra Labs](https://www.netralabs.ai/) as a **Full Stack Dev Intern**
 
