@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulasthamukherjee&label=Views&color=blue&style=plastic" alt="poulasthamukherjee" /> </p>
 
-- - 💻 I'm working at [Netra Labs](https://www.netralabs.ai/) as a **Full Stack Dev Intern**
+- 💻 I'm working at [Netra Labs](https://www.netralabs.ai/) as a **Full Stack Dev Intern**
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
