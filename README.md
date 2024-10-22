@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Poulastha</h1>
 <h3 align="center">Software Developer</h3
-
-
-
 - 💻 I'm working at [Netra Labs](https://www.netralabs.ai/) as a **Full Stack Dev Intern**
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
